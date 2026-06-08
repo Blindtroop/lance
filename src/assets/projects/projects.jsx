@@ -2,21 +2,21 @@ import { motion } from "motion/react";
 
 const projects = [
   {
-    title:       "Fredrick Solutions",
+    title:       "Stryde",
     description: "A clean, conversion-focused portfolio writing website. Built with a focus on fast load times, clear copywriting hierarchy and lead capture.",
     tags:        ["React", "Tailwind", "Vite"],
-    live:        "https://fredricksolutions.com",   // replace
-    github:      "https://github.com/lancekaluhi",  // replace
+    live:        "https://stryde-shoes.vercel.app/",   
+    github:      "https://github.com/Blindtroop/stryde",  
     gradient:    "linear-gradient(135deg, #1a1a0a 0%, #2a2200 100%)",
-    accentColor: "#D4B000",
-    initials:    "Fredrick",
+    accentColor: "#008080",
+    initials:    "Stryde",
   },
   {
     title:       "MTN Plateau Fragrances",
     description: "Online room rental platform connecting landlords and tenants. Features listings, filtering, and an enquiry system for Nairobi-based rentals.",
     tags:        ["React", "Bootstrap", "Node.js"],
-    live:        "https://mtnplateau.com/",       // replace
-    github:      "https://github.com/Blindtroop/mtn",   // replace
+    live:        "https://mtnplateau.com/",       
+    github:      "https://github.com/Blindtroop/mtn",  
     gradient:    "linear-gradient(135deg, #0a1020 0%, #001a30 100%)",
     accentColor: "#38BDF8",
     initials:    "MTN",
@@ -26,8 +26,8 @@ const projects = [
     title:       "Echoes",
     description: "Online room rental platform connecting landlords and tenants. Features listings, filtering, and an enquiry system for Nairobi-based rentals.",
     tags:        ["React", "Bootstrap", "Node.js"],
-    live:        "https://myechoesapp.vercel.app/",       // replace
-    github:      "https://github.com/Blindtroop/echoes",   // replace
+    live:        "https://myechoesapp.vercel.app/",       
+    github:      "https://github.com/Blindtroop/echoes",   
     gradient:    "linear-gradient(135deg, #0a1020 0%, #001a30 100%)",
     accentColor: "#38BDF8",
     initials:    "Echoes",
@@ -37,8 +37,8 @@ const projects = [
     title:       "Mbaikia",
     description: "Online room rental platform connecting landlords and tenants. Features listings, filtering, and an enquiry system for Nairobi-based rentals.",
     tags:        ["React", "Bootstrap", "Node.js"],
-    live:        "https://mbaikia.vercel.app/",       // replace
-    github:      "https://github.com/Blindtroop/mbaikia",   // replace
+    live:        "https://mbaikia.vercel.app/",       
+    github:      "https://github.com/Blindtroop/mbaikia",   
     gradient:    "linear-gradient(135deg, #0a1020 0%, #001a30 100%)",
     accentColor: "#38BDF8",
     initials:    "Mbaikia",
