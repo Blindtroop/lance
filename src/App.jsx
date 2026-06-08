@@ -5,6 +5,7 @@ import Skills from './assets/Skills/skills'
 import Stack from './assets/stack/stack'
 import Projects from './assets/projects/projects'
 import Contact from './assets/contact/contact'
+import Footer from './assets/footer/footer'
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
         <Stack />
         <Projects />
         <Contact />
+        <Footer />
       </div>
     </>
   )

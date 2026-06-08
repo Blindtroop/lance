@@ -227,7 +227,7 @@ export default function Contact() {
               <button
                 type="submit"
                 disabled={status === "sending"}
-                className="mt-1 w-full inline-flex items-center justify-center gap-2 bg-[#008080] text-[#0D0D0D] text-[11px] font-semibold tracking-btn uppercase py-3 rounded-[3px] hover:brightness-110 transition-all duration-200 disabled:opacity-50 disabled:cursor-not-allowed"
+                className="mt-1 w-full inline-flex items-center justify-center gap-2 bg-[#008080] text-white text-[11px] font-semibold tracking-btn uppercase py-3 rounded-[3px] hover:brightness-110 transition-all duration-200 disabled:opacity-50 disabled:cursor-not-allowed"
               >
                 {status === "sending" ? (
                   "Sending…"
