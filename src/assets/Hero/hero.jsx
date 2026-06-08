@@ -96,7 +96,7 @@ export default function Hero() {
             </a>
 
             <a
-              href="/resume.pdf"
+              href="https://drive.google.com/file/d/1gMX3V0mM2gG3kBsYGyb4gpgWDUxWrn__/view"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 border border-accent/40 text-accent text-[11px] font-medium uppercase px-6 py-[11px] rounded-[3px] hover:border-accent transition"

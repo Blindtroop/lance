@@ -50,7 +50,7 @@ function Badge({ name, abbr, color, bg }) {
 
 export default function Stack() {
   return (
-    <section id="languages" className="bg-[#F4E1C1] py-24 px-10">
+    <section id="tech stack" className="bg-[#F4E1C1] py-24 px-10">
       <div className="max-w-6xl mx-auto">
 
         {/* heading */}

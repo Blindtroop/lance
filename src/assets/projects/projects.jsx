@@ -9,39 +9,39 @@ const projects = [
     github:      "https://github.com/lancekaluhi",  // replace
     gradient:    "linear-gradient(135deg, #1a1a0a 0%, #2a2200 100%)",
     accentColor: "#D4B000",
-    initials:    "FS",
+    initials:    "Fredrick",
   },
   {
-    title:       "Share My Space",
+    title:       "MTN Plateau Fragrances",
     description: "Online room rental platform connecting landlords and tenants. Features listings, filtering, and an enquiry system for Nairobi-based rentals.",
     tags:        ["React", "Bootstrap", "Node.js"],
-    live:        "https://sharemyspace.co.ke",       // replace
-    github:      "https://github.com/lancekaluhi",   // replace
+    live:        "https://mtnplateau.com/",       // replace
+    github:      "https://github.com/Blindtroop/mtn",   // replace
     gradient:    "linear-gradient(135deg, #0a1020 0%, #001a30 100%)",
     accentColor: "#38BDF8",
-    initials:    "SMS",
+    initials:    "MTN",
   },
 
    {
-    title:       "Share My Space",
+    title:       "Echoes",
     description: "Online room rental platform connecting landlords and tenants. Features listings, filtering, and an enquiry system for Nairobi-based rentals.",
     tags:        ["React", "Bootstrap", "Node.js"],
-    live:        "https://sharemyspace.co.ke",       // replace
-    github:      "https://github.com/lancekaluhi",   // replace
+    live:        "https://myechoesapp.vercel.app/",       // replace
+    github:      "https://github.com/Blindtroop/echoes",   // replace
     gradient:    "linear-gradient(135deg, #0a1020 0%, #001a30 100%)",
     accentColor: "#38BDF8",
-    initials:    "SMS",
+    initials:    "Echoes",
   },
 
    {
-    title:       "Share My Space",
+    title:       "Mbaikia",
     description: "Online room rental platform connecting landlords and tenants. Features listings, filtering, and an enquiry system for Nairobi-based rentals.",
     tags:        ["React", "Bootstrap", "Node.js"],
-    live:        "https://sharemyspace.co.ke",       // replace
-    github:      "https://github.com/lancekaluhi",   // replace
+    live:        "https://mbaikia.vercel.app/",       // replace
+    github:      "https://github.com/Blindtroop/mbaikia",   // replace
     gradient:    "linear-gradient(135deg, #0a1020 0%, #001a30 100%)",
     accentColor: "#38BDF8",
-    initials:    "SMS",
+    initials:    "Mbaikia",
   },
 ];
 

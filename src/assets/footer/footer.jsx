@@ -59,9 +59,6 @@ const Footer = ({ onContactOpen }) => {
             <h3 className="text-[11px] font-medium tracking-[0.12em] uppercase text-white">
               Get Involved
             </h3>
-            <p className="text-white font-light leading-relaxed">
-              Ready to get started?
-            </p>
             <button
               onClick={onContactOpen}
               className="bg-[#F4E1C1] border border-[#F4E1C1] cursor-pointer text-black text-[11px] font-medium tracking-[0.1em] uppercase px-5 py-2.5 rounded-sm hover:bg-[#008080] hover:text-neutral-900 transition"

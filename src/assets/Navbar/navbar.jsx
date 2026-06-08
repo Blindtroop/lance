@@ -3,8 +3,8 @@ import { motion, AnimatePresence } from "motion/react";
 
 const links = [
   { label: "Home", href: "#home" },
-  { label: "About", href: "#about" },
   { label: "Skills", href: "#skills" },
+  { label: "Tech Stack", href: "#tech stack" },
   { label: "Projects", href: "#projects" },
 ];
 
@@ -50,12 +50,13 @@ export default function Navbar({ onContactOpen }) {
         </div>
 
         {/* CTA */}
-        <button
+        <a
+          href="#contact"
           onClick={onContactOpen}
           className="bg-[#F4E1C1] hidden md:inline-flex items-center border border-accent/40 text-base px-4 py-2 rounded hover:border-accent transition-colors duration-200"
         >
           Hire me
-        </button>
+        </a>
 
         {/* mobile hamburger */}
         <button
