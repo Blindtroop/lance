@@ -35,13 +35,13 @@ const Footer = ({ onContactOpen }) => {
             <ul className="space-y-3">
               <li className="flex items-center gap-2 text-neutral-300">
                 <MdEmail className="flex-shrink-0" />
-                <a href="mailto:njorogembaikia@gmail.com" className="hover:text-white transition">
+                <a href="mailto:kaluhilance4@gmail.com" className="hover:text-white transition">
                   kaluhilance4@gmail.com
                 </a>
               </li>
               <li className="flex items-center gap-2 text-neutral-300">
                 <MdPhone className="flex-shrink-0" />
-                <a href="tel:+254115723379" className="hover:text-white transition">
+                <a href="tel:+254115112760" className="hover:text-white transition">
                   +254 115 112760
                 </a>
               </li>

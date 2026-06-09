@@ -43,11 +43,11 @@ const contactInfo = [
 ];
 
 const socials = [
-  { label: "GitHub",    href: "https://github.com/lancekaluhi",
+  { label: "GitHub",    href: "https://github.com/Blindtroop",
     icon: <svg width="18" height="18" viewBox="0 0 18 18" fill="none"><path d="M9 1.5a7.5 7.5 0 00-2.37 14.616c.375.069.512-.163.512-.361V14.22c-2.087.454-2.527-1.005-2.527-1.005-.34-.867-.832-1.097-.832-1.097-.68-.465.052-.456.052-.456.752.053 1.148.773 1.148.773.668 1.143 1.75.813 2.177.622.068-.483.261-.814.476-1.001-1.66-.189-3.405-.83-3.405-3.693 0-.816.292-1.482.77-2.004-.077-.189-.333-.948.073-1.976 0 0 .627-.201 2.053.765A7.154 7.154 0 019 5.868c.633.003 1.27.085 1.865.251 1.425-.966 2.051-.765 2.051-.765.407 1.028.151 1.787.074 1.976.48.522.769 1.188.769 2.004 0 2.87-1.748 3.502-3.413 3.687.268.232.507.688.507 1.387v2.053c0 .2.135.434.517.36A7.5 7.5 0 009 1.5z" fill="currentColor"/></svg> },
-  { label: "LinkedIn",  href: "#",
+  { label: "LinkedIn",  href: "https://www.linkedin.com/in/daniel-k-394794230/",
     icon: <svg width="18" height="18" viewBox="0 0 18 18" fill="none"><rect x="1.5" y="1.5" width="15" height="15" rx="3" stroke="currentColor" strokeWidth="1.4"/><path d="M5 7.5V13M5 5v.5M8.5 13V10a1.5 1.5 0 013 0v3M8.5 7.5V13" stroke="currentColor" strokeWidth="1.4" strokeLinecap="round"/></svg> },
-  { label: "Twitter/X", href: "#",
+  { label: "Twitter/X", href: "https://x.com/Kaluhi2",
     icon: <svg width="18" height="18" viewBox="0 0 18 18" fill="none"><path d="M3 3l5.5 6L3 15h2l4.25-4.75L13 15h3l-5.75-6.5L15.5 3h-2L9 7.5 5.5 3H3z" fill="currentColor"/></svg> },
 ];
 
