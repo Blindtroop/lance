@@ -108,11 +108,6 @@ export default function Skills() {
               key={skill.title}
               variants={item}
               className="relative bg-bg-card rounded-[8px] p-5 border border-white/[0.07] hover:border-white/[0.12] transition-colors duration-300 overflow-hidden group"
-              style={
-                skill.highlighted
-                  ? { borderLeft: "2.5px solid #D4B000" }
-                  : {}
-              }
             >
               {/* subtle hover glow */}
               <div className="absolute inset-0 opacity-0 group-hover:opacity-100 transition-opacity duration-300 pointer-events-none"

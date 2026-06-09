@@ -6,6 +6,7 @@ import Stack from './assets/stack/stack'
 import Projects from './assets/projects/projects'
 import Contact from './assets/contact/contact'
 import Footer from './assets/footer/footer'
+import Chat from'./assets/chat/chat'
 import ReactGA from "react-ga4";
 import { useEffect } from "react";
 
@@ -65,6 +66,7 @@ function App() {
         <Projects />
         <Contact />
         <Footer />
+        <Chat />
       </div>
     </>
   );
