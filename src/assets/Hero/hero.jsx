@@ -53,7 +53,7 @@ export default function Hero() {
             initial={{ opacity: 0, y: 16 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.5, delay: 0.18 }}
-            className="text-[14px] sm:text-[15px] font-semibold text-black/40 mb-3"
+            className="text-[14px] sm:text-[15px] font-semibold text-black mb-3"
           >
             Frontend Developer — Nairobi, Kenya
           </motion.p>
@@ -63,7 +63,7 @@ export default function Hero() {
             initial={{ opacity: 0, y: 16 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.5, delay: 0.24 }}
-            className="text-[13px] text-black/40 leading-relaxed mb-8 max-w-[380px] mx-auto sm:mx-0"
+            className="text-[13px] text-black leading-relaxed mb-8 max-w-[380px] mx-auto sm:mx-0"
           >
             Crafting modern, performant web experiences with React, Tailwind &
             clean code. Passionate about UI that&apos;s both beautiful and fast.
