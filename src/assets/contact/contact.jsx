@@ -2,8 +2,10 @@ import { useState } from "react";
 import { motion } from "motion/react";
 import emailjs from "@emailjs/browser";
 
-const SERVICE_ID  = "YOUR_SERVICE_ID";   // ← replace
-const TEMPLATE_ID = "YOUR_TEMPLATE_ID";  // ← replace
+emailjs.init("8ywQ0HEygtTgVD3BW");
+
+const SERVICE_ID  = "service_ypi0cpj";   // ← replace
+const TEMPLATE_ID = "template_d2tdk1r";  // ← replace
 
 const contactInfo = [
   {
