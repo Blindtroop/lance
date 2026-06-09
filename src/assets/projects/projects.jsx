@@ -3,8 +3,7 @@ import { motion } from "motion/react";
 const projects = [
   {
     title:       "Stryde",
-    description: "A clean, conversion-focused portfolio writing website. Built with a focus on fast load times, clear copywriting hierarchy and lead capture.",
-    tags:        ["React", "Tailwind", "Vite"],
+    description: "A modern, conversion-focused footwear website showcasing stylish shoes with a clean UI, smooth browsing experience, and optimized layout designed to highlight products, improve engagement, and drive sales.",    tags:        ["React", "Tailwind", "Vite"],
     live:        "https://stryde-shoes.vercel.app/",   
     github:      "https://github.com/Blindtroop/stryde",  
     gradient:    "linear-gradient(135deg, #1a1a0a 0%, #2a2200 100%)",
@@ -13,8 +12,7 @@ const projects = [
   },
   {
     title:       "MTN Plateau Fragrances",
-    description: "Online room rental platform connecting landlords and tenants. Features listings, filtering, and an enquiry system for Nairobi-based rentals.",
-    tags:        ["React", "Tailwind","Vite"],
+    description: "A premium fragrances and flavors platform showcasing a curated collection of perfumes, aromas, and flavor profiles. Built for smooth browsing, detailed product exploration, and seamless discovery of scents tailored to personal and commercial use.",    tags:        ["React", "Tailwind","Vite"],
     live:        "https://mtnplateau.com/",       
     github:      "https://github.com/Blindtroop/mtn",  
     gradient:    "linear-gradient(135deg, #0a1020 0%, #001a30 100%)",
@@ -24,8 +22,7 @@ const projects = [
 
    {
     title:       "Echoes",
-    description: "Online room rental platform connecting landlords and tenants. Features listings, filtering, and an enquiry system for Nairobi-based rentals.",
-    tags:        ["React", "Tailwind", "Firebase"],
+    description: "Echoes is an anonymous real-time chat platform that allows users to connect and converse freely without revealing their identity. Designed for privacy-first communication, it features instant messaging, ephemeral conversations, and a minimal interface focused on authentic expression.",    tags:        ["React", "Tailwind", "Firebase"],
     live:        "https://myechoesapp.vercel.app/",       
     github:      "https://github.com/Blindtroop/echoes",   
     gradient:    "linear-gradient(135deg, #0a1020 0%, #001a30 100%)",
@@ -35,8 +32,7 @@ const projects = [
 
    {
     title:       "Mbaikia",
-    description: "Online room rental platform connecting landlords and tenants. Features listings, filtering, and an enquiry system for Nairobi-based rentals.",
-    tags:        ["React", "Tailwind","Vite"],
+    description: "A professional campaign website for MBAIKIA NJOROGE, designed to showcase his vision, manifesto, achievements, and leadership agenda. Built to engage voters through clear messaging, updates, and a strong digital presence that supports outreach and community connection.",    tags:        ["React", "Tailwind","Vite"],
     live:        "https://mbaikia.vercel.app/",       
     github:      "https://github.com/Blindtroop/mbaikia",   
     gradient:    "linear-gradient(135deg, #0a1020 0%, #001a30 100%)",
