@@ -56,17 +56,32 @@ const Footer = ({ onContactOpen }) => {
 
           {/* CTA */}
           <div className="space-y-4">
-            <h3 className="text-[11px] font-medium tracking-[0.12em] uppercase text-white">
-              Get Involved
-            </h3>
-            <button
-              onClick={onContactOpen}
-              className="bg-[#F4E1C1] border border-[#F4E1C1] cursor-pointer text-black text-[11px] font-medium tracking-[0.1em] uppercase px-5 py-2.5 rounded-sm hover:bg-[#008080] hover:text-neutral-900 transition"
-            >
-              Get a Quote
-            </button>
+             <div>
+          <h1 className="font-bold underline mb-3">Follow Me</h1>
+
+          <div className="flex items-center gap-2 justify-center sm:justify-start mb-2">
+            <FaFacebook />
+            <a href="https://www.facebook.com/lance.wright.71619">Facebook</a>
           </div>
 
+          <div className="flex items-center gap-2 justify-center sm:justify-start mb-2">
+            <FaLinkedin />
+            <a href="https://www.linkedin.com/in/daniel-k-394794230/">LinkedIn</a>
+          </div>
+
+          <div className="flex items-center gap-2 justify-center sm:justify-start">
+            <FaInstagram />
+            <a href="https://www.instagram.com/kaluhi.lance/">Instagram</a>
+          </div>
+        </div>
+      </div>
+            {/* <a
+          href="#contact"
+          onClick={onContactOpen}
+          className="bg-[#F4E1C1] text-black hidden md:inline-flex items-center border border-accent/40 text-base px-4 py-2 rounded hover:border-accent transition-colors duration-200"
+        >
+          Get a Quote
+        </a> */}
         </div>
       </div>
     </footer>
