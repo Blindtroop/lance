@@ -14,7 +14,7 @@ const projects = [
   {
     title:       "MTN Plateau Fragrances",
     description: "Online room rental platform connecting landlords and tenants. Features listings, filtering, and an enquiry system for Nairobi-based rentals.",
-    tags:        ["React", "Bootstrap", "Node.js"],
+    tags:        ["React", "Tailwind","Vite"],
     live:        "https://mtnplateau.com/",       
     github:      "https://github.com/Blindtroop/mtn",  
     gradient:    "linear-gradient(135deg, #0a1020 0%, #001a30 100%)",
@@ -25,7 +25,7 @@ const projects = [
    {
     title:       "Echoes",
     description: "Online room rental platform connecting landlords and tenants. Features listings, filtering, and an enquiry system for Nairobi-based rentals.",
-    tags:        ["React", "Bootstrap", "Node.js"],
+    tags:        ["React", "Tailwind", "Firebase"],
     live:        "https://myechoesapp.vercel.app/",       
     github:      "https://github.com/Blindtroop/echoes",   
     gradient:    "linear-gradient(135deg, #0a1020 0%, #001a30 100%)",
@@ -36,7 +36,7 @@ const projects = [
    {
     title:       "Mbaikia",
     description: "Online room rental platform connecting landlords and tenants. Features listings, filtering, and an enquiry system for Nairobi-based rentals.",
-    tags:        ["React", "Bootstrap", "Node.js"],
+    tags:        ["React", "Tailwind","Vite"],
     live:        "https://mbaikia.vercel.app/",       
     github:      "https://github.com/Blindtroop/mbaikia",   
     gradient:    "linear-gradient(135deg, #0a1020 0%, #001a30 100%)",
